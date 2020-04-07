@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f4898ee-e682-4d37-a59c-44fb0dc9d304" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hash-map/hashmap.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hash-map/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +36,7 @@
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/bin-tree" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -48,5 +49,11 @@
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2023" y="298" width="426" height="483" key="FileChooserDialogImpl" timestamp="1586283455855">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2023" y="298" width="426" height="483" key="FileChooserDialogImpl/1280.0.1920.1080/0.0.1280.1024@1280.0.1920.1080" timestamp="1586283455855" />
   </component>
 </project>
